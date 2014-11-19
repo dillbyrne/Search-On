@@ -1,0 +1,12 @@
+{
+  "name": "search-on",
+  "title": "Search On",
+  "id": "jid1-KgFmqKAk2xcs3w",
+  "description": "Search with any installed search engine from the context menu",
+  "author": "dbyrne",
+  "icon": "data/images/icon48.png",
+  "icon64": "data/images/icon64.png",
+  "license": "GNGNU GPL v3+",
+  "permissions": {"private-browsing": true},
+  "version": "1.0"
+}
